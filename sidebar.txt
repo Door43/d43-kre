@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kre:home|Door43 (kre)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kre|d43-kre repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kre/archive/master.zip|d43-kre.zip]]
+
+**Recent Changes**
+{{changes>ns = kre}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kre|Ethnologue data]]
+
